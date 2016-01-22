@@ -1,0 +1,32 @@
+{
+  "name": "cocoabean",
+  "version": "0.0.1",
+  "description": "CocoaBean is an object-oriented, MVC, cross-platform javaScript application framework.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheunghy/CocoaBean.git"
+  },
+  "keywords": [
+    "mvc", "cross-platform"
+  ],
+  "author": "Zhang Kai Yu",
+  "contributors": [
+    {
+      "name": "Zhang Kai Yu",
+      "email": "yeannylam@gmail.com"
+    },
+    {
+      "name": "Zhao Shao Wan",
+      "email": "zhaoshaowan@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cheunghy/CocoaBean/issues"
+  },
+  "homepage": "https://github.com/cheunghy/CocoaBean#readme"
+}
