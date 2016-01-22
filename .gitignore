@@ -42,3 +42,6 @@ mkmf.log
 
 # Emacs plugins
 .tern-port
+
+# node.js
+/node_modules

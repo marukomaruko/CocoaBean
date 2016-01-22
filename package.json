@@ -11,7 +11,8 @@
     "url": "git+https://github.com/cheunghy/CocoaBean.git"
   },
   "keywords": [
-    "mvc", "cross-platform"
+    "mvc",
+    "cross-platform"
   ],
   "author": "Zhang Kai Yu",
   "contributors": [
@@ -28,5 +29,12 @@
   "bugs": {
     "url": "https://github.com/cheunghy/CocoaBean/issues"
   },
-  "homepage": "https://github.com/cheunghy/CocoaBean#readme"
+  "homepage": "https://github.com/cheunghy/CocoaBean#readme",
+  "devDependencies": {
+    "babel-core": "^6.4.5",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-stage-0": "^6.3.13",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^6.1.1"
+  }
 }
