@@ -25,7 +25,6 @@ module CocoaBean
     require 'cocoa_bean/command/preview'
     require 'cocoa_bean/command/about'
     require 'cocoa_bean/command/test'
-    require 'cocoa_bean/command/open'
     require 'cocoa_bean/command/dist'
 
     self.abstract_command = true

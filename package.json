@@ -37,5 +37,8 @@
     "gulp": "^3.9.0",
     "gulp-babel": "^6.1.1",
     "gulp-mocha": "^2.2.0"
+  },
+  "dependencies": {
+    "commander": "^2.9.0"
   }
 }
